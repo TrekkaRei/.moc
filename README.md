@@ -1,2 +1,3 @@
 # mocp
-mocp
+
+configs for mocp
