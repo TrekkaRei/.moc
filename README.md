@@ -1,3 +1,3 @@
 # mocp
 
-configs for mocp
+Config and theme for mocp
