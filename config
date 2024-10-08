@@ -235,7 +235,7 @@ ShowTimePercent = no
 #
 # Example:    Theme = laras_theme
 #
-#Theme =
+Theme = /home/trekka/.moc/themes/trekka
 
 # The theme used when running on an xterm.
 #
